@@ -39,8 +39,8 @@ I have completed the analysis of customer engagement, marketing effectiveness, a
 - Test different messaging strategies in underperforming product categories.  
 
 ## **Attachments:**  
-- [Marketing Analysis SQL Tables Report](../results/Marketing_Analysis_SQL__Table.pdf)  
-- [Marketing Recommendations](../results/Marketing_recommendations.txt)  
+- [Marketing Analysis SQL Tables Report](./results/Marketing_Analysis_SQL__Table.pdf)  
+- [Marketing Recommendations](./results/Marketing_recommendations.txt)  
 
 These insights should help refine our marketing strategies and improve customer engagement and conversion rates. Let me know if you need further analysis or specific deep dives.  
 

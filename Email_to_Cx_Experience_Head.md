@@ -43,8 +43,8 @@ Common complaints identified in the reviews include:
 - Enhance customer service responses for dissatisfaction-related queries.  
 
 ## **Attachments:**  
-- [Customer Experience SQL Tables Report](../results/Cx_Experience_Analysis_SQL_Tables.pdf)  
-- [Customer Experience Recommendations](../results/customer_experience_recommendations.txt)  
+- [Customer Experience SQL Tables Report](./results/Cx_Experience_Analysis_SQL_Tables.pdf)  
+- [Customer Experience Recommendations](./results/customer_experience_recommendations.txt)  
 
 These insights and recommendations should help improve customer satisfaction, engagement, and retention. Let me know if you’d like further analysis on specific aspects.  
 
