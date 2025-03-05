@@ -1,0 +1,9 @@
+Consider improving or marketing Cycling Helmet (Rating: None, Sales: 0).
+Consider improving or marketing Basketball (Rating: 2.6667, Sales: 0).
+Consider improving or marketing Dumbbells (Rating: 3.0000, Sales: 0).
+Consider improving or marketing Ice Skates (Rating: 3.0000, Sales: 0).
+Consider improving or marketing Baseball Glove (Rating: 3.4000, Sales: 0).
+Boost marketing in VIDEO campaigns (Avg Views: 1945.2000, Avg Clicks: 422.7143, Purchases: 11).
+Boost marketing in NEWSLETTER campaigns (Avg Views: 2313.5238, Avg Clicks: 446.8571, Purchases: 11).
+Boost marketing in BLOG campaigns (Avg Views: 2341.2581, Avg Clicks: 474.2258, Purchases: 9).
+Boost marketing in SOCIALMEDIA campaigns (Avg Views: 2517.0000, Avg Clicks: 551.2400, Purchases: 7).

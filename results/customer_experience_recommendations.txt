@@ -1,0 +1,17 @@
+The following products have the lowest ratings and need quality improvement:
+- Basketball (Product ID: 7): Avg Rating 2.67 (Reviews: 3)
+- Dumbbells (Product ID: 4): Avg Rating 3.00 (Reviews: 5)
+- Ice Skates (Product ID: 12): Avg Rating 3.00 (Reviews: 2)
+- Baseball Glove (Product ID: 9): Avg Rating 3.40 (Reviews: 5)
+- Kayak (Product ID: 16): Avg Rating 3.40 (Reviews: 10)
+6 customers made only one purchase. Consider implementing loyalty rewards or personalized follow-ups to increase retention.
+Top recurring customer complaints:
+- Product  did    not  meet  my  expectations. (Product: Fitness Tracker | Mentioned 1 times)
+- I  had  a  bad  experience  with  this  product. (Product: Tennis Racket | Mentioned 1 times)
+- The  product  stopped  working  after  a  month. (Product: Dumbbells | Mentioned 1 times)
+- Disappointed  with  the  performance. (Product: Golf Clubs | Mentioned 1 times)
+- The  product    is  okay,  but  the  instructions  were  unclear. (Product: Basketball | Mentioned 1 times)
+- Average  experience,  nothing  special. (Product: Surfboard | Mentioned 1 times)
+- Not  worth  the  money. (Product: Yoga Mat | Mentioned 1 times)
+- The  product  arrived    late. (Product: Climbing Rope | Mentioned 1 times)
+- Average  experience,  nothing  special. (Product: Kayak | Mentioned 1 times)
