@@ -68,7 +68,7 @@ This report consolidates insights from three analyses—**Marketing Performance*
 ---
 
 ## **📎 Attachments**    
-📂 **[Business Recommendations](./results/ShopEShopEasy_Business_Recommendations.pdf)**  
+📂 **[Business Recommendations](./results/ShopEasy_Business_Recommendations.pdf)**  
 📂 **[Customer Behaviour Analysis](./results/ShopEasy_Final_Report.pdf)**  
 ---
 
